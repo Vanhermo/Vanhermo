@@ -21,6 +21,8 @@ CUDA, cloud, systems, and performance
 ## 🌱 Programs & Involvement
 - **Next Gen Scientist @ Tecnológico de Monterrey** — computational science & performance-oriented programming
 - **EGS Leadership Program** — leadership development through real-world, high-impact projects
+- **FIRST Robotics (FTC & FRC)** — software development, control systems, and hardware–software integration in competitive robotics
+
 
 
 ## 🌐 Socials
