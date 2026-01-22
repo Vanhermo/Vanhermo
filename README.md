@@ -8,8 +8,6 @@ I work on:
 - Robotics projects that blend software, electronics, and systems thinking
 - Scientific computing projects, including CUDA acceleration of biomolecular simulations
 
-I’m part of **Next Gen Scientist at Tecnológico de Monterrey**, where I explore computational science and performance-oriented programming.
-
 GitHub is where I build, experiment, and document my learning
 
 **CS • Security • Robotics • Scientific Computing**  
@@ -19,6 +17,11 @@ CUDA, cloud, systems, and performance
 **Curious by nature, builder by habit.**
 
 ---
+
+## 🌱 Programs & Involvement
+- **Next Gen Scientist @ Tecnológico de Monterrey** — computational science & performance-oriented programming
+- **EGS Leadership Program** — leadership development through real-world, high-impact projects
+
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/claudia-vanessa-hermosillo-diaz)
